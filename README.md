@@ -1,4 +1,5 @@
-####This assignment requires you to make a maze by C.####
+#### This assignment requires you to make a maze by C.####
+
 You have to complete the following requierments:
 
 - create a map of maze randomly, by typing in `WIDTH` and `HEIGHT`. (NOT larger than 50*50)
