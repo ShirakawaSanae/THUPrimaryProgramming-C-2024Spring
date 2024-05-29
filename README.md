@@ -1,4 +1,4 @@
-#### This assignment requires you to make a maze by C.####
+#### This assignment requires you to make a maze by C.
 
 You have to complete the following requierments:
 
